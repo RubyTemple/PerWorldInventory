@@ -1,4 +1,4 @@
-# PerWorldInventory
+# PerWorldInventory 3.X.X Full Working
 A full featured per world inventory plugin.
 
 This plugin allows you to share the inventories of multiple worlds by configuring it in the `config.yml` file. You can stop players from switching inventories per world by giving them the permission: `per-world-inventory.bypass`.
@@ -7,7 +7,7 @@ This plugin allows you to share the inventories of multiple worlds by configurin
 It is mostly recommended to use released versions of the plugin, which can be found in the released version on Poggit. (once there is one)<br>
 If you do decide you want the latest version of the plugin, it is recommended you fetch a pre-compiled phar file from Poggit-CI, which can be found below.
 <br><br>
-[![Poggit-CI](https://poggit.pmmp.io/ci.shield/BlockHorizons/PerWorldInventory/PerWorldInventory)](https://poggit.pmmp.io/ci/BlockHorizons/PerWorldInventory/PerWorldInventory)
+[![Poggit-CI](https://poggit.pmmp.io/ci.shield/BlockHorizons/PerWorldInventory/PerWorldInventory)](https://poggit.pmmp.io/ci/RubyTemple/PerWorldInventory/~)
 
 ### Support
 I found an issue in the plugin which I would like to be fixed quickly! What do I do?<br>
